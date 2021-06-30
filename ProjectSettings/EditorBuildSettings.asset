@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GamingFiles/Scenes/Menu.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/GamingFiles/Scenes/Game.unity
+    guid: 0cb5d44a4c963f145acdb0a0c95d9d1b
+  - enabled: 1
+    path: Assets/GamingFiles/Scenes/CatchGame.unity
+    guid: efdaf60f95cc44fc590b061685495823
+  - enabled: 1
+    path: Assets/GamingFiles/Scenes/BreakoutGame.unity
+    guid: 2e4d6e555e6df3a44974826e10604225
+  - enabled: 1
+    path: Assets/GamingFiles/Scenes/Maze2.unity
+    guid: 8344bf432847f7b46aa12f67b380bf36
+  m_configObjects: {}
